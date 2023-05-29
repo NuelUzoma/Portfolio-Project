@@ -35,6 +35,14 @@ pipeline {
                 }
             }
         }
+	
+	stage('Checkout') {
+    	    steps {
+        	checkout([$class: 'GitSCM',
+                branches: [[name: '*/master']],
+                userRemoteConfigs: [[url: 'https://github.com/your/repo.git']]])
+	    }
+	}
     }
 
     post {
