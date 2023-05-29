@@ -40,7 +40,7 @@ pipeline {
     	    steps {
         	checkout([$class: 'GitSCM',
                 branches: [[name: '*/master']],
-                userRemoteConfigs: [[url: 'https://github.com/your/repo.git']]])
+                userRemoteConfigs: [[url: 'https://github.com/NuelUzoma/Portfolio-Project.git']]])
 	    }
 	}
     }
