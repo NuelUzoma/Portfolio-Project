@@ -2,4 +2,4 @@
 
 This is a detailed documentation for my portfolio project. It will be a comprehensive write-up for everything concerning this project.
 
-This will be selected as a freestyle proect for my portfolio.
+This will be selected as a freestyle project for my portfolio.
