@@ -3,7 +3,8 @@
 This is my Portfolio Project for the Foundations Year at ALX Africa and Holberton School. It is an Automated CI/CD Pipeline for Web Applications, using technologies like Jenkins and GitHub, and also getting deployed in Docker.
 
 * Jenkins Web Interface: <http://107.23.96.11:8080/job/Portfolio-Project>
-* Blog Article: <https://www.dev.to/>
+* Blog Article: <https://dev.to/nuel-uzoma/automated-cicd-pipeline-for-web-applications-using-jenkins-and-github-3n3g>
+* Project Landing Page: <https://emcool17.wixsite.com/portfolio>
 * Author's LinkedIn: <https://www.linkedin.com/in/madubuike-emmanuel>
 * Author's Twitter: <https://www.twitter.com/0xNuel>
 
