@@ -33,4 +33,4 @@ This is the first project I have worked on concerning this field. There are curr
 
 **Licensing**
 
-There is no certain license currently obtained for this project. Currently working on getting an MIT License.
+MIT License has been created for this project.
